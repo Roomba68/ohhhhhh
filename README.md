@@ -1,2 +1,2 @@
-# ohhhhhh
-.jsのやつと.htmlのやつを同じフォルダに入れて.htmlの方をブラウザで起動してみてね！
+# wheeeeeeeeeeeeeeeeeeei
+フォルダを.zipで保存して解凍してhtmlファイルを開いてみてね
